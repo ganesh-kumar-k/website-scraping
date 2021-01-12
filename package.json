@@ -1,0 +1,15 @@
+{
+  "name": "website-scrapper",
+  "version": "1.0.0",
+  "description": "to scrape the website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "Ganesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "website-scraper": "^4.2.3"
+  }
+}
